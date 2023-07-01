@@ -1,8 +1,6 @@
 ## Dominando a API do Mercado Livre
 
-<p float="left">
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://link_para_a_imagem.jpg/](https://static-media.hotmart.com/kFfqdXltdmBbVMGHuXu09lEIarc=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/85db2c8d-957d-473b-af9e-f1cd3ed9d723/capahotmartdominandoapimeli.png?w=920)" width="200" />
-</p>
+![alt text]([https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png](https://static-media.hotmart.com/kFfqdXltdmBbVMGHuXu09lEIarc=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/85db2c8d-957d-473b-af9e-f1cd3ed9d723/capahotmartdominandoapimeli.png?w=920))
 
 Este ebook abrangente é um guia indispensável para desenvolvedores que desejam explorar todo o potencial da API do Mercado Livre. Se você deseja criar aplicativos poderosos, automatizar processos ou desenvolver soluções inovadoras para o Mercado Livre, este livro é para você.
 
