@@ -32,7 +32,11 @@ Neste ebook, você encontrará um conteúdo detalhado e passo a passo para ajud�
 ## Adquira seu ebook agora mesmo!
 
 Não perca a oportunidade de se tornar um especialista na API do Mercado Livre. Clique no link abaixo para adquirir o seu exemplar:
-
+<br>
+[Adquira o ebook agora pela plataforma Techlib](https://techlib.com.br/ebook/restful-apis/dominando-a-api-do-mercado-livre)
+<br><br>
+Caso preferir, compre pela hotmart: <br>
 [Adquira o ebook "Dominando a API do Mercado Livre"](https://hotmart.com/pt-br/marketplace/produtos/dominando-a-api-do-mercado-livre/V73735797K)
+
 
 Comece a explorar todo o potencial da API do Mercado Livre hoje mesmo e leve suas aplicações para o próximo nível!
